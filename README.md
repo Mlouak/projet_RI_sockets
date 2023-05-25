@@ -21,5 +21,5 @@ gcc router.o med.o -o router.exe<br>
 gcc -c server.c<br>
 gcc server.o med.o -o server.exe<br>
 
-the link of explanation ;
+the link of explanation :
 https://youtu.be/5hhO1fh7XtI
