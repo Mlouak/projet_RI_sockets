@@ -2,7 +2,7 @@
 you can execute the project directly
 med.c : is the file who contains all the functions of the project.
 by running this commands in three separted terminals in linux
-./server.exe
+./server.exe\n
 ./router.exe
 ./client.exe
 
